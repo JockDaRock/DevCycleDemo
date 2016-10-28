@@ -5,7 +5,7 @@ I will be making regular updates to the code, instructions, comments and archite
 
 Please let me know if you have any comments or suggestions in the mean time.
 
-#### Equipment Used
+### Equipment Used:
 [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
 
 [Hall Effect Magnet Sensor](https://www.amazon.com/SunFounder-Switch-Sensor-Arduino-Raspberry/dp/B013G5N03O/ref=sr_1_16?ie=UTF8&qid=1477695739&sr=8-16&keywords=hall+effect+sensor)
@@ -18,4 +18,4 @@ Trainer
 
 Spliced Ethernet Cord
 
-[!(https://pbs.twimg.com/media/Cv4fpeVUIAAh0E3.jpg:large)]
+[![DevCycle Demo](https://pbs.twimg.com/media/Cv4fpeVUIAAh0E3.jpg:large)]
