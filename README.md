@@ -18,4 +18,4 @@ Trainer
 
 Spliced Ethernet Cord
 
-[DevCycle Demo](https://pbs.twimg.com/media/Cv4fpeVUIAAh0E3.jpg:large)
+![DevCycle Demo](https://pbs.twimg.com/media/Cv4fpeVUIAAh0E3.jpg:large)
