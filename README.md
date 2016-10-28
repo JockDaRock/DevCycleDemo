@@ -10,7 +10,7 @@ Please let me know if you have any comments or suggestions in the mean time.
 
 [Hall Effect Magnet Sensor](https://www.amazon.com/SunFounder-Switch-Sensor-Arduino-Raspberry/dp/B013G5N03O/ref=sr_1_16?ie=UTF8&qid=1477695739&sr=8-16&keywords=hall+effect+sensor)
 
-(Cat-Eye spoke Magnet)[https://www.amazon.com/CatEye-Cycle-Computer-Universal-Magnet/dp/B000OYFENU/ref=sr_1_1?ie=UTF8&qid=1477695841&sr=8-1&keywords=spoke+magnet}
+[Cat-Eye spoke Magnet](https://www.amazon.com/CatEye-Cycle-Computer-Universal-Magnet/dp/B000OYFENU/ref=sr_1_1?ie=UTF8&qid=1477695841&sr=8-1&keywords=spoke+magnet)
 
 Street Bike
 
